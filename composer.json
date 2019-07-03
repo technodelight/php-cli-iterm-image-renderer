@@ -13,6 +13,6 @@
         }
     ],
     "autoload": {
-        "PSR-4": {"Technodelight\\ITermImage\\":  "src/"}
+        "psr-4": {"Technodelight\\ITermImage\\":  "src"}
     }
 }
